@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added an expiration date to the access to share the portfolio
 - Added the date of the last usage to the access to share the portfolio
+- Added a data provider for FXMacroData (official FX reference rates)
 
 ## 3.61.0 - 2026-08-25
 
